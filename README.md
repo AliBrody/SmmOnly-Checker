@@ -8,3 +8,5 @@
 - Working: YES ✅
 
 ## Input Format > [`User:Pass`]
+
+<img width="770" height="455" alt="image" src="https://github.com/user-attachments/assets/d51559fa-b6a4-4906-8721-15f3da82839f" />
