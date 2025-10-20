@@ -1,4 +1,5 @@
 # SmmOnly-Checker
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/YouKnow-sys/tgcaptcha-rs/blob/master/LICENSE)
 
 - Name: SmmOnly.com
 - Proxy: ✅
